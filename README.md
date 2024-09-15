@@ -18,7 +18,8 @@ In the realm of data management, SQL queries are fundamental for interacting wit
 - **Logging and Monitoring**: Comprehensive logging ensures transparency and allows users to track executed queries and system activities.
   
 - **Customizable Safety Settings**: Includes safety settings to control content generation based on specific categories like dangerous content or hate speech.
-
+- 
+![QLM Workflow](QLM_FLOW.gif)
 
 Certainly! Here's the usage guide for the Query Language Manager (QLM) in Markdown format:
 

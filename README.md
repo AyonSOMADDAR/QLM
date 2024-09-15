@@ -21,7 +21,7 @@ In the realm of data management, SQL queries are fundamental for interacting wit
 - **Customizable Safety Settings**: Includes safety settings to control content generation based on specific categories like dangerous content or hate speech.
 
 ## Use Cases
-** QLM is designed to be adaptable across multiple industries: ** 
+*QLM is designed to be adaptable across multiple industries:*
 
 - **Finance:** Provides financial analytics and predictions using APIs like Finitcity.
 - **Healthcare:** Tracks health data and offers personalized insights via Google Fit.

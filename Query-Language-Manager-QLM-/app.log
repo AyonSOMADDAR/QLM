@@ -1,0 +1,503 @@
+2024-06-09 11:59:22,603:INFO:Successfully connected to the database.
+2024-06-09 11:59:25,178:INFO:Query executed successfully.
+2024-06-09 11:59:36,070:INFO:Successfully connected to the database.
+2024-06-09 11:59:38,576:ERROR:Error: 1146 (42S02): Table 'school.table_name' doesn't exist
+2024-06-09 12:09:04,679:INFO:Successfully connected to the database.
+2024-06-09 12:09:06,043:INFO:Successfully connected to the database.
+2024-06-09 12:09:09,523:INFO:Successfully connected to the database.
+2024-06-09 12:09:10,122:INFO:Successfully connected to the database.
+2024-06-09 12:20:23,235:INFO:Successfully connected to the database.
+2024-06-09 12:20:25,207:INFO:Successfully connected to the database.
+2024-06-09 12:20:29,670:INFO:Successfully connected to the database.
+2024-06-09 12:20:32,643:INFO:Query executed successfully.
+2024-06-09 12:21:04,560:INFO:Successfully connected to the database.
+2024-06-09 12:21:17,120:INFO:Successfully connected to the database.
+2024-06-09 12:21:18,189:INFO:Successfully connected to the database.
+2024-06-09 12:21:22,919:INFO:Successfully connected to the database.
+2024-06-09 12:21:25,354:INFO:Query executed successfully.
+2024-06-09 12:21:35,788:INFO:Successfully connected to the database.
+2024-06-09 12:21:38,463:INFO:Query executed successfully.
+2024-06-09 12:21:44,586:INFO:Successfully connected to the database.
+2024-06-09 12:21:46,968:INFO:Query executed successfully.
+2024-06-09 12:21:54,455:INFO:Successfully connected to the database.
+2024-06-09 12:22:06,034:INFO:Successfully connected to the database.
+2024-06-09 12:22:08,565:INFO:Query executed successfully.
+2024-06-09 12:22:18,499:INFO:Successfully connected to the database.
+2024-06-09 12:22:26,453:INFO:Successfully connected to the database.
+2024-06-09 12:22:28,843:INFO:Query executed successfully.
+2024-06-09 12:22:34,106:INFO:Successfully connected to the database.
+2024-06-09 12:22:34,773:INFO:Successfully connected to the database.
+2024-06-09 12:23:46,274:INFO:Successfully connected to the database.
+2024-06-09 12:23:47,806:INFO:Successfully connected to the database.
+2024-06-09 12:23:51,469:INFO:Successfully connected to the database.
+2024-06-09 12:23:53,938:INFO:Query executed successfully.
+2024-06-09 12:24:11,370:INFO:Successfully connected to the database.
+2024-06-09 12:24:57,813:INFO:Successfully connected to the database.
+2024-06-09 12:25:02,769:INFO:Successfully connected to the database.
+2024-06-09 12:25:05,518:INFO:Query executed successfully.
+2024-06-09 12:25:20,792:INFO:Successfully connected to the database.
+2024-06-09 12:25:23,620:ERROR:Error: 1050 (42S01): Table 'students' already exists
+2024-06-09 12:25:26,274:INFO:Successfully connected to the database.
+2024-06-09 12:25:30,422:INFO:Successfully connected to the database.
+2024-06-09 12:25:37,739:INFO:Successfully connected to the database.
+2024-06-09 12:25:40,243:INFO:Query executed successfully.
+2024-06-09 12:26:42,256:INFO:Successfully connected to the database.
+2024-06-09 12:27:35,854:INFO:Successfully connected to the database.
+2024-06-09 12:27:42,174:INFO:Successfully connected to the database.
+2024-06-09 12:28:03,055:INFO:Successfully connected to the database.
+2024-06-09 12:28:05,443:INFO:Query executed successfully.
+2024-06-09 12:28:10,210:INFO:Successfully connected to the database.
+2024-06-09 12:28:14,224:INFO:Successfully connected to the database.
+2024-06-09 12:29:11,839:INFO:Successfully connected to the database.
+2024-06-09 12:31:38,344:INFO:Successfully connected to the database.
+2024-06-09 12:31:44,509:INFO:Successfully connected to the database.
+2024-06-09 12:31:46,325:INFO:Successfully connected to the database.
+2024-06-09 12:32:10,158:INFO:Successfully connected to the database.
+2024-06-09 12:32:10,809:INFO:Successfully connected to the database.
+2024-06-09 12:32:15,042:INFO:Successfully connected to the database.
+2024-06-09 12:32:15,677:INFO:Successfully connected to the database.
+2024-06-09 12:32:18,205:INFO:Successfully connected to the database.
+2024-06-09 12:32:19,360:INFO:Successfully connected to the database.
+2024-06-09 12:32:47,808:INFO:Successfully connected to the database.
+2024-06-09 12:32:50,422:INFO:Query executed successfully.
+2024-06-09 12:33:00,337:INFO:Successfully connected to the database.
+2024-06-09 12:33:00,909:INFO:Successfully connected to the database.
+2024-06-09 12:33:08,842:INFO:Successfully connected to the database.
+2024-06-09 12:35:00,774:INFO:Successfully connected to the database.
+2024-06-09 12:35:02,136:INFO:Successfully connected to the database.
+2024-06-09 12:37:12,324:INFO:Successfully connected to the database.
+2024-06-09 12:37:13,272:INFO:Successfully connected to the database.
+2024-06-09 12:37:17,037:INFO:Successfully connected to the database.
+2024-06-09 12:37:17,453:INFO:Successfully connected to the database.
+2024-06-09 12:40:38,995:INFO:Successfully connected to the database.
+2024-06-09 12:40:40,637:INFO:Successfully connected to the database.
+2024-06-09 12:40:43,603:INFO:Successfully connected to the database.
+2024-06-09 12:40:44,119:INFO:Successfully connected to the database.
+2024-06-09 12:40:54,852:INFO:Successfully connected to the database.
+2024-06-09 12:40:55,552:INFO:Successfully connected to the database.
+2024-06-09 12:40:56,506:INFO:Successfully connected to the database.
+2024-06-09 12:40:58,285:INFO:Successfully connected to the database.
+2024-06-09 12:40:58,755:INFO:Successfully connected to the database.
+2024-06-09 12:41:03,605:INFO:Successfully connected to the database.
+2024-06-09 12:41:05,170:INFO:Successfully connected to the database.
+2024-06-09 12:41:05,520:INFO:Successfully connected to the database.
+2024-06-09 12:41:11,787:INFO:Successfully connected to the database.
+2024-06-09 12:41:12,521:INFO:Successfully connected to the database.
+2024-06-09 12:41:12,935:INFO:Successfully connected to the database.
+2024-06-09 12:41:13,286:INFO:Successfully connected to the database.
+2024-06-09 12:41:13,519:INFO:Successfully connected to the database.
+2024-06-09 12:41:13,735:INFO:Successfully connected to the database.
+2024-06-09 12:41:14,470:INFO:Successfully connected to the database.
+2024-06-09 12:45:45,796:INFO:Successfully connected to the database.
+2024-06-09 12:45:49,147:INFO:Query executed successfully.
+2024-06-09 12:46:01,557:INFO:Successfully connected to the database.
+2024-06-09 12:46:04,487:INFO:Successfully connected to the database.
+2024-06-09 12:51:03,516:INFO:Successfully connected to the database.
+2024-06-09 12:58:41,270:INFO:Successfully connected to the database.
+2024-06-09 12:58:48,647:INFO:Successfully connected to the database.
+2024-06-09 12:59:16,292:INFO:Successfully connected to the database.
+2024-06-09 12:59:19,092:INFO:Query executed successfully.
+2024-06-09 13:00:05,900:INFO:Successfully connected to the database.
+2024-06-09 13:00:07,362:INFO:Successfully connected to the database.
+2024-06-09 13:00:10,791:INFO:Successfully connected to the database.
+2024-06-09 13:00:13,428:INFO:Query executed successfully.
+2024-06-09 13:00:31,012:INFO:Successfully connected to the database.
+2024-06-09 13:00:31,012:INFO:Successfully connected to the database.
+2024-06-09 13:01:17,496:INFO:Successfully connected to the database.
+2024-06-09 13:01:18,099:INFO:Successfully connected to the database.
+2024-06-09 13:01:19,647:INFO:Successfully connected to the database.
+2024-06-09 13:01:26,677:INFO:Successfully connected to the database.
+2024-06-09 13:01:29,300:INFO:Query executed successfully.
+2024-06-09 13:01:31,146:INFO:Successfully connected to the database.
+2024-06-09 13:01:57,455:INFO:Successfully connected to the database.
+2024-06-09 13:02:27,294:INFO:Successfully connected to the database.
+2024-06-09 13:13:07,534:INFO:Successfully connected to the database.
+2024-06-09 13:14:41,693:INFO:Successfully connected to the database.
+2024-06-09 13:14:45,396:INFO:Successfully connected to the database.
+2024-06-09 13:15:06,191:INFO:Successfully connected to the database.
+2024-06-09 13:15:06,644:INFO:Successfully connected to the database.
+2024-06-09 13:15:08,430:INFO:Successfully connected to the database.
+2024-06-09 13:15:09,445:INFO:Successfully connected to the database.
+2024-06-09 13:15:18,025:INFO:Successfully connected to the database.
+2024-06-09 13:15:20,773:INFO:Query executed successfully.
+2024-06-09 13:16:00,760:INFO:Successfully connected to the database.
+2024-06-09 13:16:03,626:INFO:Successfully connected to the database.
+2024-06-09 13:16:08,756:INFO:Successfully connected to the database.
+2024-06-09 13:16:11,211:INFO:Query executed successfully.
+2024-06-09 13:17:07,104:INFO:Successfully connected to the database.
+2024-06-09 13:17:10,261:INFO:Successfully connected to the database.
+2024-06-09 13:17:35,153:INFO:Successfully connected to the database.
+2024-06-09 13:17:36,586:INFO:Successfully connected to the database.
+2024-06-09 13:17:36,964:INFO:Successfully connected to the database.
+2024-06-09 13:17:37,815:ERROR:Task exception was never retrieved
+future: <Task finished name='Task-16111' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2024-06-09 13:17:37,829:INFO:Successfully connected to the database.
+2024-06-09 13:17:38,235:INFO:Successfully connected to the database.
+2024-06-09 13:27:01,591:INFO:Successfully connected to the database.
+2024-06-09 13:27:08,288:INFO:Successfully connected to the database.
+2024-06-09 13:27:11,415:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-09 13:27:13,757:INFO:Successfully connected to the database.
+2024-06-09 13:27:21,436:INFO:Successfully connected to the database.
+2024-06-09 13:27:23,818:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-09 13:27:39,521:INFO:Successfully connected to the database.
+2024-06-09 13:27:42,270:INFO:Query executed successfully.
+2024-06-09 13:27:47,586:INFO:Successfully connected to the database.
+2024-06-09 13:27:50,254:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-09 13:27:57,702:INFO:Successfully connected to the database.
+2024-06-09 13:28:09,011:INFO:Successfully connected to the database.
+2024-06-09 13:28:10,924:INFO:Successfully connected to the database.
+2024-06-09 13:28:20,049:INFO:Successfully connected to the database.
+2024-06-09 13:28:28,842:INFO:Successfully connected to the database.
+2024-06-09 13:29:27,499:INFO:Successfully connected to the database.
+2024-06-09 13:29:36,618:INFO:Successfully connected to the database.
+2024-06-09 13:30:28,821:INFO:Successfully connected to the database.
+2024-06-09 13:30:39,184:INFO:Successfully connected to the database.
+2024-06-09 13:30:56,560:ERROR:Unexpected error: 'NoneType' object is not subscriptable
+2024-06-09 13:31:20,820:INFO:Successfully connected to the database.
+2024-06-09 13:31:25,866:INFO:Successfully connected to the database.
+2024-06-09 13:31:28,281:INFO:Query executed successfully.
+2024-06-09 13:31:33,236:INFO:Successfully connected to the database.
+2024-06-09 13:31:36,234:INFO:Query executed successfully.
+2024-06-09 13:31:43,585:INFO:Successfully connected to the database.
+2024-06-09 13:31:51,433:INFO:Successfully connected to the database.
+2024-06-09 13:41:19,400:INFO:Successfully connected to the database.
+2024-06-09 13:41:28,059:INFO:Successfully connected to the database.
+2024-06-09 13:41:30,954:INFO:Query executed successfully.
+2024-06-09 13:42:18,230:INFO:Successfully connected to the database.
+2024-06-09 13:42:29,339:INFO:Successfully connected to the database.
+2024-06-09 13:42:30,446:INFO:Successfully connected to the database.
+2024-06-09 13:42:45,506:INFO:Successfully connected to the database.
+2024-06-09 13:42:48,217:INFO:Query executed successfully.
+2024-06-09 13:42:57,179:INFO:Successfully connected to the database.
+2024-06-09 13:43:11,553:INFO:Successfully connected to the database.
+2024-06-09 14:13:12,380:INFO:Successfully connected to the database.
+2024-06-11 13:49:39,966:ERROR:Error: 2003 (HY000): Can't connect to MySQL server on '127.0.0.2:3306' (60)
+2024-06-11 13:49:41,146:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:49:53,691:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:49:56,626:ERROR:Error: 2003 (HY000): Can't connect to MySQL server on '127.0.0.2:3306' (60)
+2024-06-11 13:49:59,969:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:50:28,569:ERROR:Error: 2003 (HY000): Can't connect to MySQL server on '127.0.0.2:3306' (60)
+2024-06-11 13:50:30,125:ERROR:Error: 2003 (HY000): Can't connect to MySQL server on '127.0.0.2:3306' (60)
+2024-06-11 13:51:34,797:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:52,625:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:53,942:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:54,681:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:55,745:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:56,220:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:57,041:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:58,321:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:59,138:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:51:59,546:ERROR:Task exception was never retrieved
+future: <Task finished name='Task-301' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ayonsomaddar/Chandigarh University/Ayon/Projects/QLM/.venv/lib/python3.10/site-packages/tornado/websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2024-06-11 13:51:59,564:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:52:00,231:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:53:24,727:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:53:29,151:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-11 13:53:53,112:ERROR:Error: 1049 (42000): Unknown database 'school'
+2024-06-11 13:54:41,841:INFO:Successfully connected to the database.
+2024-06-11 13:55:23,653:INFO:Successfully connected to the database.
+2024-06-11 13:57:02,317:INFO:Successfully connected to the database.
+2024-06-11 13:57:08,826:INFO:Successfully connected to the database.
+2024-06-11 13:57:11,476:INFO:Query executed successfully.
+2024-06-11 13:57:13,615:INFO:Successfully connected to the database.
+2024-06-11 13:57:16,361:INFO:Successfully connected to the database.
+2024-06-11 13:57:17,476:INFO:Successfully connected to the database.
+2024-06-11 13:57:20,244:INFO:Query executed successfully.
+2024-06-11 13:57:57,531:INFO:Successfully connected to the database.
+2024-06-11 13:58:05,600:INFO:Successfully connected to the database.
+2024-06-11 13:58:53,683:INFO:Successfully connected to the database.
+2024-06-11 13:59:27,015:INFO:Successfully connected to the database.
+2024-06-11 14:00:36,175:INFO:Successfully connected to the database.
+2024-06-13 01:34:29,282:INFO:Successfully connected to the database.
+2024-06-13 01:34:35,283:INFO:Successfully connected to the database.
+2024-06-13 01:34:38,267:INFO:Query executed successfully.
+2024-06-13 01:35:02,393:INFO:Successfully connected to the database.
+2024-06-13 01:35:04,681:INFO:Query executed successfully.
+2024-06-13 01:36:18,838:INFO:Successfully connected to the database.
+2024-06-13 01:36:21,665:INFO:Query executed successfully.
+2024-06-13 01:36:36,833:INFO:Successfully connected to the database.
+2024-06-13 01:40:56,416:INFO:Successfully connected to the database.
+2024-06-13 01:41:00,838:INFO:Successfully connected to the database.
+2024-06-13 01:41:03,510:ERROR:Error: `<class 'mysql.connector.errors.Error'>`
+2024-06-13 01:41:06,367:INFO:Successfully connected to the database.
+2024-06-13 01:41:14,720:INFO:Successfully connected to the database.
+2024-06-13 01:41:17,155:ERROR:Error: `<class 'mysql.connector.errors.Error'>`
+2024-06-13 01:42:02,362:INFO:Successfully connected to the database.
+2024-06-13 01:45:29,608:INFO:Successfully connected to the database.
+2024-06-13 01:45:32,622:INFO:Query executed successfully.
+2024-06-13 01:45:40,877:INFO:Successfully connected to the database.
+2024-06-13 01:45:43,268:INFO:Query executed successfully.
+2024-06-13 01:46:13,632:INFO:Successfully connected to the database.
+2024-06-13 01:46:29,897:INFO:Successfully connected to the database.
+2024-06-13 01:46:32,067:INFO:Query executed successfully.
+2024-06-13 01:46:39,094:INFO:Successfully connected to the database.
+2024-06-13 01:46:41,498:ERROR:Error: `1146 (42S02): Table 'sys.tables' doesn't exist`
+2024-06-13 01:46:43,798:INFO:Successfully connected to the database.
+2024-06-13 01:46:55,727:INFO:Successfully connected to the database.
+2024-06-13 01:46:58,399:ERROR:Error: `1049 (42000): Unknown database 'information_database'`
+2024-06-13 01:47:12,093:INFO:Successfully connected to the database.
+2024-06-13 01:47:25,070:INFO:Successfully connected to the database.
+2024-06-13 01:47:27,820:INFO:Query executed successfully.
+2024-06-13 01:47:39,349:INFO:Successfully connected to the database.
+2024-06-13 01:47:41,768:ERROR:Error: `1146 (42S02): Table 'school.employee' doesn't exist`
+2024-06-13 01:47:50,581:INFO:Successfully connected to the database.
+2024-06-13 01:47:58,250:INFO:Successfully connected to the database.
+2024-06-13 01:48:00,692:INFO:Query executed successfully.
+2024-06-13 01:49:39,837:INFO:Successfully connected to the database.
+2024-06-13 01:49:45,769:INFO:Successfully connected to the database.
+2024-06-13 01:49:48,661:INFO:Query executed successfully.
+2024-06-13 01:49:55,988:INFO:Successfully connected to the database.
+2024-06-13 01:50:08,924:INFO:Successfully connected to the database.
+2024-06-13 01:50:11,213:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-13 01:50:13,392:INFO:Successfully connected to the database.
+2024-06-13 01:50:21,937:INFO:Successfully connected to the database.
+2024-06-13 01:50:31,868:INFO:Successfully connected to the database.
+2024-06-13 01:50:34,534:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-13 01:50:51,871:INFO:Successfully connected to the database.
+2024-06-13 01:50:54,587:ERROR:Error: `1046 (3D000): No database selected`
+2024-06-13 01:51:17,199:INFO:Successfully connected to the database.
+2024-06-13 01:51:26,908:INFO:Successfully connected to the database.
+2024-06-13 01:51:57,195:INFO:Successfully connected to the database.
+2024-06-13 01:52:20,477:INFO:Successfully connected to the database.
+2024-06-13 01:52:23,040:INFO:Query executed successfully.
+2024-06-13 01:52:30,081:INFO:Successfully connected to the database.
+2024-06-13 01:52:41,278:INFO:Successfully connected to the database.
+2024-06-13 01:52:43,672:INFO:Query executed successfully.
+2024-06-13 02:00:53,635:INFO:Successfully connected to the database.
+2024-06-13 02:00:57,598:INFO:Successfully connected to the database.
+2024-06-13 02:01:00,423:INFO:Successfully connected to the database.
+2024-06-13 02:01:03,997:INFO:Successfully connected to the database.
+2024-06-13 02:01:38,865:INFO:Successfully connected to the database.
+2024-06-13 02:02:17,020:INFO:Successfully connected to the database.
+2024-06-13 02:02:32,054:INFO:Successfully connected to the database.
+2024-06-13 02:02:35,032:INFO:Successfully connected to the database.
+2024-06-13 02:02:37,917:INFO:Query executed successfully.
+2024-06-13 02:14:30,346:INFO:Successfully connected to the database.
+2024-06-13 02:28:19,869:INFO:Successfully connected to the database.
+2024-06-13 02:42:35,486:INFO:Successfully connected to the database.
+2024-06-13 03:02:02,823:INFO:Successfully connected to the database.
+2024-06-13 08:55:13,473:INFO:Successfully connected to the database.
+2024-06-13 10:40:15,107:INFO:Successfully connected to the database.
+2024-06-13 10:40:25,067:INFO:Successfully connected to the database.
+2024-06-13 10:40:27,894:INFO:Query executed successfully.
+2024-06-13 10:41:09,334:INFO:Successfully connected to the database.
+2024-06-13 10:41:40,799:INFO:Successfully connected to the database.
+2024-06-13 10:41:43,647:INFO:Query executed successfully.
+2024-06-13 10:42:21,683:INFO:Successfully connected to the database.
+2024-06-13 10:42:24,104:ERROR:Error: `1265 (01000): Data truncated for column 'Class' at row 1`
+2024-06-13 10:42:33,751:INFO:Successfully connected to the database.
+2024-06-13 10:42:44,449:INFO:Successfully connected to the database.
+2024-06-13 10:42:48,872:ERROR:Error: `1265 (01000): Data truncated for column 'Class' at row 1`
+2024-06-13 10:46:04,281:INFO:Successfully connected to the database.
+2024-06-13 10:46:24,865:INFO:Successfully connected to the database.
+2024-06-13 10:46:27,412:INFO:Query executed successfully.
+2024-06-13 10:46:47,686:INFO:Successfully connected to the database.
+2024-06-13 10:46:48,413:INFO:Successfully connected to the database.
+2024-06-13 10:47:16,461:INFO:Successfully connected to the database.
+2024-06-13 10:47:26,811:INFO:Successfully connected to the database.
+2024-06-13 10:47:29,659:INFO:Query executed successfully.
+2024-06-13 10:47:59,665:INFO:Successfully connected to the database.
+2024-06-13 10:48:02,607:INFO:Query executed successfully.
+2024-06-13 10:48:27,113:INFO:Successfully connected to the database.
+2024-06-13 10:48:41,862:INFO:Successfully connected to the database.
+2024-06-13 10:48:44,917:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXIT' at line 1`
+2024-06-13 10:48:53,225:INFO:Successfully connected to the database.
+2024-06-13 10:48:56,279:INFO:Successfully connected to the database.
+2024-06-13 10:48:57,330:INFO:Successfully connected to the database.
+2024-06-13 10:49:53,906:INFO:Successfully connected to the database.
+2024-06-13 10:54:20,471:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-13 10:55:15,850:ERROR:Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-06-13 10:55:48,577:INFO:Successfully connected to the database.
+2024-09-14 16:00:21,748:INFO:Successfully connected to the database.
+2024-09-14 16:00:53,472:INFO:Successfully connected to the database.
+2024-09-14 16:01:17,093:INFO:Successfully connected to the database.
+2024-09-14 16:01:20,069:INFO:Query executed successfully.
+2024-09-14 16:01:26,426:INFO:Successfully connected to the database.
+2024-09-14 16:01:29,971:INFO:Successfully connected to the database.
+2024-09-14 16:01:34,455:INFO:Successfully connected to the database.
+2024-09-14 16:01:42,452:INFO:Successfully connected to the database.
+2024-09-14 16:01:44,806:INFO:Query executed successfully.
+2024-09-14 16:02:12,436:INFO:Successfully connected to the database.
+2024-09-14 16:02:14,832:INFO:Query executed successfully.
+2024-09-14 16:03:45,890:INFO:Successfully connected to the database.
+2024-09-14 16:03:48,428:ERROR:Error: `1305 (42000): FUNCTION school.MEDIAN does not exist`
+2024-09-14 16:03:51,836:INFO:Successfully connected to the database.
+2024-09-14 16:16:36,833:INFO:Successfully connected to the database.
+2024-09-14 16:16:38,134:INFO:Successfully connected to the database.
+2024-09-14 16:17:15,492:INFO:Successfully connected to the database.
+2024-09-14 16:17:17,104:ERROR:Error: `1305 (42000): FUNCTION school.MEDIAN does not exist`
+2024-09-14 16:18:21,233:INFO:Successfully connected to the database.
+2024-09-14 16:18:24,093:ERROR:Error: `1054 (42S22): Unknown column 'student_id' in 'field list'`
+2024-09-14 16:18:43,167:INFO:Successfully connected to the database.
+2024-09-14 16:18:45,809:ERROR:Error: `1054 (42S22): Unknown column 'student_id' in 'field list'`
+2024-09-14 16:18:55,736:INFO:Successfully connected to the database.
+2024-09-14 16:18:58,466:ERROR:Error: `1054 (42S22): Unknown column 'student_id' in 'field list'`
+2024-09-14 16:19:40,944:INFO:Successfully connected to the database.
+2024-09-14 21:18:14,890:INFO:Successfully connected to the database.
+2024-09-14 21:18:17,039:INFO:Successfully connected to the database.
+2024-09-14 21:18:26,148:INFO:Successfully connected to the database.
+2024-09-14 21:18:30,305:INFO:Query executed successfully.
+2024-09-14 21:19:01,746:INFO:Successfully connected to the database.
+2024-09-14 21:19:04,111:ERROR:Error: `1146 (42S02): Table 'school.table_name' doesn't exist`
+2024-09-14 21:19:10,989:INFO:Successfully connected to the database.
+2024-09-14 21:19:20,835:INFO:Query executed successfully.
+2024-09-14 21:20:22,982:INFO:Successfully connected to the database.
+2024-09-14 21:20:25,509:ERROR:Error: `1054 (42S22): Unknown column 'student_id' in 'field list'`
+2024-09-14 21:20:29,837:INFO:Successfully connected to the database.
+2024-09-14 21:20:32,704:INFO:Query executed successfully.
+2024-09-14 21:21:52,949:INFO:Successfully connected to the database.
+2024-09-14 21:21:56,050:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM student;
+```' at line 1`
+2024-09-14 21:22:04,706:INFO:Successfully connected to the database.
+2024-09-14 21:22:27,796:INFO:Successfully connected to the database.
+2024-09-14 21:22:30,468:INFO:Query executed successfully.
+2024-09-14 21:23:07,644:INFO:Successfully connected to the database.
+2024-09-14 21:23:07,675:INFO:Successfully connected to the database.
+2024-09-14 21:23:10,610:INFO:Query executed successfully.
+2024-09-14 21:23:16,147:INFO:Successfully connected to the database.
+2024-09-14 21:23:18,103:INFO:Query executed successfully.
+2024-09-14 21:23:39,253:INFO:Successfully connected to the database.
+2024-09-14 21:23:41,161:INFO:Successfully connected to the database.
+2024-09-14 21:23:43,593:INFO:Query executed successfully.
+2024-09-14 21:23:55,035:INFO:Successfully connected to the database.
+2024-09-14 21:23:56,788:INFO:Query executed successfully.
+2024-09-14 21:24:00,480:INFO:Successfully connected to the database.
+2024-09-14 21:24:02,937:INFO:Query executed successfully.
+2024-09-14 21:24:11,010:INFO:Successfully connected to the database.
+2024-09-14 21:28:10,721:INFO:Successfully connected to the database.
+2024-09-14 21:28:13,709:INFO:Successfully connected to the database.
+2024-09-14 21:28:19,240:INFO:Successfully connected to the database.
+2024-09-14 21:28:35,552:INFO:Successfully connected to the database.
+2024-09-14 21:29:04,476:INFO:Successfully connected to the database.
+2024-09-14 21:29:07,375:ERROR:Error: `1146 (42S02): Table 'school.table_name' doesn't exist`
+2024-09-14 21:29:42,696:INFO:Successfully connected to the database.
+2024-09-14 21:29:45,469:ERROR:Error: `1146 (42S02): Table 'school.students' doesn't exist`
+2024-09-14 21:29:58,363:INFO:Successfully connected to the database.
+2024-09-14 21:30:01,296:ERROR:Error: `1146 (42S02): Table 'school.students' doesn't exist`
+2024-09-14 21:32:20,765:INFO:Successfully connected to the database.
+2024-09-14 21:32:23,992:ERROR:Error: `1305 (42000): FUNCTION school.MEDIAN does not exist`
+2024-09-14 21:32:42,857:INFO:Successfully connected to the database.
+2024-09-14 21:32:45,829:INFO:Query executed successfully.
+2024-09-14 21:33:12,800:INFO:Successfully connected to the database.
+2024-09-14 21:33:15,624:INFO:Query executed successfully.
+2024-09-14 21:41:26,360:INFO:Successfully connected to the database.
+2024-09-14 21:41:29,339:INFO:Query executed successfully.
+2024-09-14 21:42:29,358:INFO:Successfully connected to the database.
+2024-09-14 21:42:31,872:INFO:Query executed successfully.
+2024-09-14 21:43:04,329:INFO:Successfully connected to the database.
+2024-09-14 21:43:06,957:INFO:Query executed successfully.
+2024-09-14 21:43:19,840:INFO:Successfully connected to the database.
+2024-09-14 21:43:41,340:INFO:Successfully connected to the database.
+2024-09-14 21:43:43,818:INFO:Query executed successfully.
+2024-09-14 21:43:47,787:INFO:Successfully connected to the database.
+2024-09-14 21:43:54,274:INFO:Successfully connected to the database.
+2024-09-14 21:43:56,722:INFO:Query executed successfully.
+2024-09-14 21:44:06,324:INFO:Successfully connected to the database.
+2024-09-14 21:44:08,699:ERROR:Error: `1146 (42S02): Table 'ayon.flights' doesn't exist`
+2024-09-14 21:44:16,459:INFO:Successfully connected to the database.
+2024-09-14 21:44:28,873:INFO:Successfully connected to the database.
+2024-09-14 21:44:31,331:INFO:Query executed successfully.
+2024-09-14 21:44:49,770:INFO:Successfully connected to the database.
+2024-09-14 21:44:52,247:INFO:Query executed successfully.
+2024-09-14 21:45:28,662:INFO:Successfully connected to the database.
+2024-09-14 21:45:31,466:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE date = '2023-08-15';
+```' at line 1`
+2024-09-14 21:45:37,744:INFO:Successfully connected to the database.
+2024-09-14 21:45:40,861:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE date = '2023-08-15';
+```' at line 1`
+2024-09-14 21:45:52,562:INFO:Successfully connected to the database.
+2024-09-14 21:45:55,120:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE date = '2023-08-15';
+```' at line 1`
+2024-09-14 21:47:42,956:INFO:Successfully connected to the database.
+2024-09-14 21:47:46,203:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE departuretime LIKE '2023-08-15%';
+```' at line 1`
+2024-09-14 21:49:22,241:INFO:Successfully connected to the database.
+2024-09-14 21:49:25,535:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE departuretime LIKE '2023-08-15%';
+```' at line 1`
+2024-09-14 21:49:53,568:INFO:Successfully connected to the database.
+2024-09-14 21:49:56,782:INFO:Query executed successfully.
+2024-09-14 21:50:03,874:INFO:Successfully connected to the database.
+2024-09-14 21:50:06,706:INFO:Query executed successfully.
+2024-09-14 21:50:41,732:INFO:Successfully connected to the database.
+2024-09-14 21:50:44,716:INFO:Query executed successfully.
+2024-09-14 21:50:56,325:INFO:Successfully connected to the database.
+2024-09-14 21:50:58,844:INFO:Query executed successfully.
+2024-09-14 21:52:44,227:INFO:Successfully connected to the database.
+2024-09-14 21:52:47,202:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE departuretime LIKE '2024-08-15 11:%';
+```' at line 1`
+2024-09-14 21:53:14,202:INFO:Successfully connected to the database.
+2024-09-14 21:53:33,543:INFO:Successfully connected to the database.
+2024-09-14 21:53:36,760:INFO:Query executed successfully.
+2024-09-14 21:54:00,447:INFO:Successfully connected to the database.
+2024-09-14 21:54:04,728:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE departuretime = '2024-08-15 08:00:00';
+```' at line 1`
+2024-09-14 21:54:06,280:INFO:Successfully connected to the database.
+2024-09-14 21:54:09,018:ERROR:Error: `1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '```sql
+SELECT * FROM flight WHERE departuretime LIKE '2024-08-15 08:%';
+```' at line 1`
+2024-09-14 21:54:10,594:INFO:Successfully connected to the database.
+2024-09-14 21:54:17,922:INFO:Query executed successfully.
+2024-09-14 21:56:21,687:INFO:Successfully connected to the database.
+2024-09-14 21:56:25,368:INFO:Query executed successfully.
+2024-09-14 21:56:41,622:INFO:Successfully connected to the database.
+2024-09-14 21:56:44,841:INFO:Query executed successfully.
+2024-09-15 15:57:12,485:INFO:Successfully connected to the database.
+2024-09-15 15:57:16,834:INFO:Successfully connected to the database.
+2024-09-15 15:57:25,052:INFO:Query executed successfully.
+2024-09-15 15:57:39,652:INFO:Successfully connected to the database.
+2024-09-15 15:57:42,386:ERROR:Error: `1054 (42S22): Unknown column 'date' in 'order clause'`
+2024-09-15 15:57:48,648:INFO:Successfully connected to the database.
+2024-09-15 15:57:55,052:INFO:Successfully connected to the database.
+2024-09-15 15:57:56,922:ERROR:Error: `1054 (42S22): Unknown column 'date' in 'order clause'`
+2024-09-15 15:58:12,080:INFO:Successfully connected to the database.
+2024-09-15 15:58:14,461:INFO:Query executed successfully.
+2024-09-15 16:04:16,629:INFO:Successfully connected to the database.
+2024-09-15 16:04:23,604:INFO:Successfully connected to the database.
+2024-09-15 16:05:51,229:INFO:Successfully connected to the database.
+2024-09-15 16:05:53,674:INFO:Successfully connected to the database.
+2024-09-15 16:06:55,103:INFO:Successfully connected to the database.
+2024-09-15 16:07:27,011:INFO:Successfully connected to the database.
+2024-09-15 16:07:43,266:ERROR:Error: 1049 (42000): Unknown database 'dinance'
+2024-09-15 16:07:50,930:INFO:Successfully connected to the database.
+2024-09-15 16:08:20,461:INFO:Successfully connected to the database.
+2024-09-15 16:08:21,042:INFO:Successfully connected to the database.
+2024-09-15 16:09:23,754:INFO:Successfully connected to the database.
+2024-09-15 16:09:27,360:ERROR:Error: `1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`finance`.`transactions`, CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`account_id`) REFERENCES `accounts` (`account_id`))`
+2024-09-15 16:09:57,450:INFO:Successfully connected to the database.
+2024-09-15 16:10:00,214:ERROR:Error: `1146 (42S02): Table 'finance.account' doesn't exist`
+2024-09-15 16:10:08,695:INFO:Successfully connected to the database.
+2024-09-15 16:10:11,699:INFO:Query executed successfully.
+2024-09-15 16:42:11,418:INFO:Successfully connected to the database.
+2024-09-15 16:42:14,846:INFO:Successfully connected to the database.
+2024-09-15 16:42:21,775:INFO:Successfully connected to the database.
+2024-09-15 16:42:24,396:INFO:Query executed successfully.

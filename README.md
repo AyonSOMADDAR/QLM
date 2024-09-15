@@ -33,6 +33,7 @@ Certainly! Here's the usage guide for the Query Language Manager (QLM) in Markdo
 Clone the QLM repository from GitHub using the command:
 ```bash
 git clone https://github.com/AyonSOMADDAR/QLM.git
+cd QLM
 cd Query-Language-Manager-QLM-
 ```
 

@@ -81,6 +81,8 @@ streamlit run LLM.py
 
 ---
 
+-*Developed by Team 3g "Genie"*
+
 Developed by Ayon
 
 ---
